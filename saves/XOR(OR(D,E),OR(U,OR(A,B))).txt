@@ -1,0 +1,1 @@
+XOR(OR(D,E),OR(U,OR(A,B)))
